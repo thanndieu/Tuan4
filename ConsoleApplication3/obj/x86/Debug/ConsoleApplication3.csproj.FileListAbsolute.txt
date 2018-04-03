@@ -1,0 +1,5 @@
+D:\ThaiDui\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\ThaiDui\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\ThaiDui\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+D:\ThaiDui\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+D:\ThaiDui\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
